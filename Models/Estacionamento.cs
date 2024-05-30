@@ -61,7 +61,7 @@ namespace DesafioFundamentos.Models
                 //Calcula o Valor Total
                 decimal valorTotal = precoInicial + (precoPorHora * horas);
 
-                // TODO: Remover a placa digitada da lista de veículo
+                //Remover a placa digitada da lista de veículo
                 veiculos.Remove(placa);
 
                 Console.WriteLine($"O veículo {placa} foi removido e o preço total foi de: R$ {valorTotal}");

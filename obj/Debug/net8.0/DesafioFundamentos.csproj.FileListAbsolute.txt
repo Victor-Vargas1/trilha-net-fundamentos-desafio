@@ -7,7 +7,6 @@ C:\Projetos\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\D
 C:\Projetos\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfoInputs.cache
 C:\Projetos\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfo.cs
 C:\Projetos\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
-C:\Projetos\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.sourcelink.json
 C:\Projetos\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.dll
 C:\Projetos\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\refint\DesafioFundamentos.dll
 C:\Projetos\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.pdb
